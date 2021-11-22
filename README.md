@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 📫 How to reach me **linkedin.com/in/tonmoy-asique-tamal-a7a667211/**
+- 📫 How to reach me **linkedin.com/in/tonmoy-asique-tamal/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tonmoy-asique-tamal-a7a667211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoy-asique-tamal-a7a667211/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tonmoy-asique-tamal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoy-asique-tamal-a7a667211/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/16532407/tonmoy-asique-tamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16532407/tonmoy-asique-tamal" height="30" width="40" /></a>
 <a href="https://fb.com/tonmoyasiquetamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoyasiquetamal" height="30" width="40" /></a>
 <a href="https://instagram.com/tonmoy_asique_tamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoy_asique_tamal" height="30" width="40" /></a>
